@@ -1,7 +1,8 @@
 # IBM Project - Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
 **Author:** Hemant Thapa
-**Email:** heamntthapa1998@gmail.com
+
+**Email:** hemantthapa1998@gmail.com
 
 ## Introduction
 
